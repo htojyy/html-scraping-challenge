@@ -24,13 +24,13 @@
 2. **How many Martian (and not Earth) days worth of data exist in the scraped dataset?**  
     `1867`<br/><br/>
 3. **What are the coldest and the warmest months on Mars (at the location of Curiosity)?**  
-   On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest.  
+   On Mars, month 3 has the coldest minimum temperature with an average temperature of approx -83C while month 8 is the warmest month with an average temperature of approx -68C.  
   <img src="Images/avg_min_temp_sorted.png" alt="Average minimum temperature (C) on Mars" width="350"><br/><br/>
 4. **Which months have the lowest and the highest atmospheric pressure on Mars?**  
-    Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.  
+    On Mars, month 6 has the lowest average pressure (approx 745mmHg) while month 9 has the highest average pressure (approx 913mmHg).   
   <img src="Images/avg_pressure_sorted.png" alt="Average pressure (mmHg) on Mars" width="350"><br/><br/>
 5. **About how many terrestrial (Earth) days exist in a Martian year?**  
-    The distance from peak to peak is roughly 1400-730, or 670 days. A year on Mars appears to be about 670 days from the plot. An [internet search](https://mars.nasa.gov/all-about-mars/facts/mars-year/#:~:text=Mars%20Sample%20Return&text=Planetary%20scientists%20chose%20this%20point,year%20is%20687%20Earth%20days) confirms that a Mars year is equivalent to 687 earth days.  
+    Using the peaks to estimate a year on Mars, the distance bewteen peak 1 and 2 is approximately 750-125 = 675 and the distance between peak 2 and peak 3 is approximately 1400-750 = 650. Approximately 650-675 Earth days is equivalent to 1 year on Mars.  
   <img src="Images/min_temp_terrestrial_days.png" alt="Earth days and minimum temperature (C)" width="350">
 
 ## References
