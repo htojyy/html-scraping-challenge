@@ -2,6 +2,8 @@
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
+Refer to `part_1_mars_news.ipynb`
+
 * Use automated browsing to visit the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html)
 * Create a Beautiful Soup object and use it to extract text elements from the website
 * Extract the titles and preview text of the news articles that were scraped
@@ -9,6 +11,8 @@
   <img src="Images/mars_news_title_preview.png" alt="Title and preview pair of Mars News" width="850">
 
 ## Part 2: Scrape and Analyse Mars Weather Data
+
+Refer to `part_2_mars_weather.ipynb`
 
 ### Background
 
